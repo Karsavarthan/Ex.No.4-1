@@ -1,7 +1,7 @@
 # Ex.No.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 # prompt-exp-4
-### Name: Bejin B
-### Reg no: 212222230021
+### Name: Karsavarthan R R
+### Reg no: 212223230100
 ## SCENARIO-BASED REPORT DEVELOPMENT UTILIZING DIVERSE PROMPTING TECHNIQUES – Case study 2 with Comparative Analysis Prompt, Comparative Analysis Prompt and Prompt Size Limitations
 ### Aim:
 To design a smart water management system using AI-powered sensors that detect leaks early, prevent water loss, and optimize maintenance in urban infrastructure. Preceding questions are used to guide AI in developing a relevant system plan.
